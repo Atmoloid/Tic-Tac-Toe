@@ -1,4 +1,4 @@
-# Tic-Tac-Toe with Move History
+# Tic-Tac-Toe
 
 ### Description
 This React application implements a classic game of Tic-Tac-Toe with an added feature: the ability to undo moves. Players can take turns marking the board with 'X' or 'O', and if they make a mistake, they can simply go back a step. 
